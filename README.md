@@ -46,27 +46,27 @@ A beautiful, modern Vue.js 3 application for managing products with full CRUD op
 ### Installation
 
 1. **Clone or extract the project**
-   \`\`\`bash
-   git clone https://github.com/vikas-500apps/vue-product-dashboard.git
+   ```bash
+   git clone https://github.com/your-username/vue-product-dashboard.git
    cd vue-product-dashboard
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Start development server**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 src/
 ├── components/          # Reusable Vue components
 │   ├── Header.vue       # Application header
@@ -93,7 +93,7 @@ src/
 ├── App.vue             # Root component
 ├── main.js             # Application entry point
 └── style.css           # Global styles and Tailwind
-\`\`\`
+```
 
 ## 🎯 API Integration
 
